@@ -19,9 +19,9 @@
       <oddHeaderR>$p</oddHeaderR>
       <evenFooterL>$P</evenFooterL>
       <evenFooterC>$:copyright:
-редакция v1.1</evenFooterC>
+редакция v1.2</evenFooterC>
       <oddFooterC>$:copyright:
-редакция v1.1</oddFooterC>
+редакция v1.2</oddFooterC>
       <oddFooterR>$P</oddFooterR>
       <TextStyle>
         <halign>center</halign>
@@ -3726,9 +3726,10 @@ B.</shortName>
           <track>5</track>
           <durationType>half</durationType>
           <Lyrics>
-            <pos x="1.14453" y="10"/>
+            <ticks>1440</ticks>
+            <pos x="0.711569" y="10.5"/>
             <track>5</track>
-            <text>(На &quot;Ду&quot;)</text>
+            <text>А</text>
             </Lyrics>
           <Note>
             <track>5</track>
