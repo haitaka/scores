@@ -99,6 +99,7 @@
           </Articulation>
         <Channel>
           <program value="0"/>
+          <controller ctrl="7" value="91"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -152,6 +153,7 @@
           </Articulation>
         <Channel>
           <program value="0"/>
+          <controller ctrl="7" value="85"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -548,7 +550,7 @@
         </Measure>
       <Measure number="7">
         <StaffText>
-          <pos x="1.79513" y="-8.03903"/>
+          <pos x="72.4034" y="-6.99187"/>
           <style>System</style>
           <text><font size="17"></font>Здесь!!</text>
           </StaffText>
@@ -3748,7 +3750,7 @@
           <Segment>
             <subtype>0</subtype>
             <off2 x="-12.9018" y="0"/>
-            <pos x="472.435" y="9.67293"/>
+            <pos x="471.961" y="9.67293"/>
             </Segment>
           <beginText>
             <text>dim.</text>
@@ -8859,10 +8861,6 @@
       <Measure number="7">
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Ba</text>
-            </Lyrics>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -8870,32 +8868,13 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ba</text>
-            </Lyrics>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ye</text>
-            </Lyrics>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>tu</text>
-            </Lyrics>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -8903,64 +8882,51 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ye</text>
-            </Lyrics>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
           <Note>
             <Tie id="101">
               </Tie>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <endSpanner id="101"/>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>tu'u</text>
-            </Lyrics>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>li</text>
-            </Lyrics>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ye</text>
-            </Lyrics>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>m</text>
-            </Lyrics>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -8970,21 +8936,6 @@
       <Measure number="8">
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>ji</text>
-            </Lyrics>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>na</text>
-            </Lyrics>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -8992,10 +8943,20 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>la</text>
-            </Lyrics>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -9003,78 +8964,50 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ko</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>e</text>
-            </Lyrics>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="102">
               </Tie>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <endSpanner id="102"/>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>li</text>
-            </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>tu</text>
-            </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>ku</text>
-            </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>zwe</text>
-            </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -9154,7 +9087,7 @@
           <Segment>
             <subtype>0</subtype>
             <off2 x="-12.4943" y="0"/>
-            <pos x="472.435" y="9.94454"/>
+            <pos x="471.961" y="9.94454"/>
             </Segment>
           <beginText>
             <text>dim.</text>
@@ -10818,13 +10751,9 @@
           </Rest>
         </Measure>
       <Measure number="8">
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
